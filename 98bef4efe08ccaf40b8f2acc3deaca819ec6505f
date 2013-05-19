@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "hnH12oE",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1850
+      },
+      "writtenOn": "2013-05-19T02:34:27Z",
+      "side": 1,
+      "message": "Je croyais que l\u0027habitude était d\u0027écrire 2012-2013 (vu qu\u0027il y avait une partie en 2012). Mais je peux me tromper.",
+      "revId": "98bef4efe08ccaf40b8f2acc3deaca819ec6505f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
