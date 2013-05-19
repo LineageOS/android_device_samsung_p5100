@@ -16,6 +16,24 @@
       "revId": "98bef4efe08ccaf40b8f2acc3deaca819ec6505f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "hhErNu0",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-19T02:36:45Z",
+      "side": 1,
+      "message": "Pour ma part je copie le copyright présent dans le fichier source.",
+      "parentUuid": "hnH12oE",
+      "revId": "98bef4efe08ccaf40b8f2acc3deaca819ec6505f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
