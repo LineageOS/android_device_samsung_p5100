@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_p5100.mk \
-    $(LOCAL_DIR)/cm.mk
+    $(LOCAL_DIR)/lineage.mk

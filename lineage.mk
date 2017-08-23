@@ -22,10 +22,10 @@ PRODUCT_RELEASE_NAME := p5100
 TARGET_SCREEN_HEIGHT := 480
 TARGET_SCREEN_WIDTH := 1280
 
-# Inherit common CM configuration
+# Inherit common LineageOS configuration
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-# CyanogenMod specific overlay
+# LineageOS specific overlay
 DEVICE_PACKAGE_OVERLAYS += device/samsung/p5100/overlay/cm
 DEVICE_PACKAGE_OVERLAYS += device/samsung/espresso-common/overlay/cm-common
 
@@ -33,7 +33,7 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/espresso-common/overlay/cm-common
 $(call inherit-product, device/samsung/p5100/aosp_p5100.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_p5100
+PRODUCT_NAME := lineage_p5100
 
 # Set build fingerprint / ID / Product Name etc.
 PRODUCT_BUILD_PROP_OVERRIDES += \
